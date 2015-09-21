@@ -29,7 +29,7 @@ one 변수에는 **1** 라는 값을 저장했고, two 변수에는 **2** 라는
 1(one) + 2(two) = 3(sum) 이므로 화면에는 3 이 출력되게됩니다.
 
 ###[예약어](https://ko.wikipedia.org/wiki/%EC%98%88%EC%95%BD%EC%96%B4)는 사용할 수 없습니다.
-프로그래밍 언어 상에서 미리 정해놓은 예약어는 변수로 사용할 수 없습니다.
+프로그래밍 언어 상에서 미리 정해놓은 예약어는 변수로 사용할 수 없습니다. [참고 리스트](http://www.rubymagic.org/posts/ruby-and-rails-reserved-words)
 ```ruby
 end = 1
 do = 1
