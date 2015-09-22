@@ -135,6 +135,15 @@ puts fruit.sample
 
 `sample` 메소드는 배열에서 임의의 한 요소를 뽑아 냅니다. <a href="http://ruby-doc.org/core-2.2.0/Array.html" target="_blank">배열에 관한 레퍼런스</a>
 
+배열에 새로운 요소를 추가하는 방법은 다음과 같습니다.
+
+```ruby
+fruit = ["banana", "apple", "watermelon"]
+fruit << "peach"
+fruit << "pineapple"
+puts fruit
+```
+
 ###반복문을 배워봅시다.
 
 <iframe src="https://player.vimeo.com/video/140007790" width="80%" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
